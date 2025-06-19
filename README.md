@@ -23,7 +23,7 @@ Ikuti langkah-langkah mudah ini untuk menggunakan aplikasi:
 
 Download app.py
 
-![image]()
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-REPOSITORY/blob/main/Download%20app.py.png)
 
 Open cmd
 
