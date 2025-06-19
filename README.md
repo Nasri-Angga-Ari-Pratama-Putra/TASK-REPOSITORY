@@ -19,4 +19,4 @@ Ikuti langkah-langkah mudah ini untuk menggunakan aplikasi:
 1. Siapkan Python: Pastikan Anda sudah menginstal Python di PC atau laptop Anda. (Saat ini, aplikasi hanya tersedia untuk desktop.)
 2. Unduh Aplikasi: Dapatkan file app.py yang dilampirkan di bawah ini.
 3. Jalankan dan Masukkan Tanggal: Buka terminal atau command prompt, navigasikan ke lokasi Anda menyimpan app.py, lalu jalankan file tersebut. Anda akan diminta untuk memasukkan tanggal yang Anda inginkan (untuk saat ini hanya mendukung kalender Gregorian).
-4. Voila! Aplikasi akan langsung memberi tahu Anda hari apa tanggal tersebut.
+4. Aplikasi akan langsung memberi tahu Anda hari apa tanggal tersebut.
