@@ -8,8 +8,8 @@ Pernahkah Anda bertanya-tanya hari apa 17 Agustus 1945? Atau hari apa ulang tahu
 
 ### Kegunaan Repository Ini
 
-- Validasi Tanggal dan Hari: Penting untuk memastikan data tanggal Anda akurat. Repository ini dapat membantu Anda memvalidasi apakah hari yang terkait dengan suatu tanggal sudah benar, sangat berguna dalam sistem entri data atau laporan.
-- Alat Bantu Pribadi: Butuh tahu hari apa ulang tahun Anda tahun depan, dua tahun sebelum dan sesudah? Atau hari apa hari besar tertentu? Anda bisa menggunakan implementasi ini sebagai alat bantu cepat untuk menjawab pertanyaan-pertanyaan sepele tentang hari dan tanggal.
+- Validasi✅ Tanggal dan Hari🗓️: Penting untuk memastikan data tanggal Anda akurat. Repository ini dapat membantu Anda memvalidasi apakah hari yang terkait dengan suatu tanggal sudah benar, sangat berguna dalam sistem entri data atau laporan.
+- 🛠️Alat Bantu Pribadi: Butuh tahu hari apa ulang tahun Anda tahun depan, dua tahun sebelum dan sesudah? Atau hari apa hari besar tertentu? Anda bisa menggunakan implementasi ini sebagai alat bantu cepat untuk menjawab pertanyaan-pertanyaan sepele tentang hari dan tanggal.
 
 ---
 
@@ -70,3 +70,5 @@ Ini adalah inti perhitungan Zeller's Congruence. Modul ini bertugas untuk:
 - Referensi: Algoritma ini didasarkan pada rumus yang dapat ditemukan di berbagai sumber referensi seperti Wikipedia: [Zeller's congruence](https://en.wikipedia.org/wiki/Zeller%27s_congruence).
 
 Dengan pembagian tugas yang jelas antar modul ini, aplikasi Anda menjadi mudah dipelihara, diperluas, dan di-debug, sekaligus memastikan fungsionalitas inti berjalan dengan presisi.
+
+## Sekian Dan Terima kasih👋
