@@ -27,7 +27,7 @@ Download app.py
 
 Open cmd
 
-![image]()
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-REPOSITORY/blob/main/open%20cmd.png)
 
 Run app.py
 
