@@ -67,6 +67,6 @@ Ini adalah inti perhitungan Zeller's Congruence. Modul ini bertugas untuk:
 
 - Penerapan Algoritma: Mengimplementasikan algoritma Zeller's Congruence untuk kalender Gregorian. Algoritma ini mengambil input tanggal, bulan, dan tahun, lalu melakukan serangkaian perhitungan matematis.
 - Pemetaan Hari: Hasil numerik dari algoritma Zeller's Congruence kemudian akan dipetakan ke hari-hari dalam seminggu (contoh: 0 = Sabtu, 1 = Minggu, dst., tergantung implementasi referensi).
-- Referensi: Algoritma ini didasarkan pada rumus yang dapat ditemukan di berbagai sumber referensi seperti Wikipedia: ![Zeller's congruence](https://en.wikipedia.org/wiki/Zeller%27s_congruence).
+- Referensi: Algoritma ini didasarkan pada rumus yang dapat ditemukan di berbagai sumber referensi seperti Wikipedia: [Zeller's congruence](https://en.wikipedia.org/wiki/Zeller%27s_congruence).
 
 Dengan pembagian tugas yang jelas antar modul ini, aplikasi Anda menjadi mudah dipelihara, diperluas, dan di-debug, sekaligus memastikan fungsionalitas inti berjalan dengan presisi.
